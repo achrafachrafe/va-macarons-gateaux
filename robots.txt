@@ -1,0 +1,14 @@
+
+User-agent: *
+Allow: /
+
+Disallow: /admin.php
+Disallow: /admin_check.php
+Disallow: /login.php
+Disallow: /logout.php
+Disallow: /checkout.php
+Disallow: /cart.php
+Disallow: /change_password.php
+Disallow: /db.php
+
+Sitemap: https://macaron.rf.gd/sitemap.xml

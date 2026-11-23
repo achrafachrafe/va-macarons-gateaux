@@ -1,0 +1,10 @@
+# Uploaded files
+uploads/*
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
